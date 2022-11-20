@@ -1,11 +1,11 @@
 # GFWIP<br>
 changed from <a href = "https://github.com/gfwlist/gfwlist"> gfwlist</a> and self use<br>
 主要适配于<a href = "https://github.com/FelisCatus/SwitchyOmega"> SwitchyOmega </a><br>
-GFWIP URL(Github): <br>
+<font size = "5">GFWIP URL
 ```
 https://raw.githubusercontent.com/97668589/gfwip/master/gfwip.txt
 ```
-CNIP URL
+<font size = "5">CNIP URL
 ```
 https://raw.githubusercontent.com/97668589/gfwip/master/cnip.txt
 ```
