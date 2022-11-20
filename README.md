@@ -5,4 +5,8 @@ GFWIP URL(Github): <br>
 ```
 https://raw.githubusercontent.com/97668589/gfwip/master/gfwip.txt
 ```
+CNIP URL
+```
+https://raw.githubusercontent.com/97668589/gfwip/master/cnip.txt
+```
 <font size = "4">有被屏蔽（比如DNS污染和IP阻断）需要添加的网站，可以GT反馈https://t.me/ok44944</font>
