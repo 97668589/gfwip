@@ -16,4 +16,4 @@ https://raw.githubusercontent.com/97668589/gfwip/master/cnip.txt
 在访问控制 - 广域网访问控制 - 强制走广域网的IP - 添加这里的TG-ip段，telegram才能被正常代理！
 ```
 https://raw.githubusercontent.com/97668589/gfwip/master/tg-ip.txt
-``
+```
